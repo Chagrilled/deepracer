@@ -11,8 +11,8 @@ from numpy import array
 DEBUG_LOG_ENABLED = True
 
 # Action space constants
-MAX_SPEED = 9.0
-MAX_STEERING_ANGLE = 40.0
+MAX_SPEED = 4.0
+MAX_STEERING_ANGLE = 30.0
 
 # Raceline track
 RACE_LINE_WAYPOINTS = EMPIRE_TRACK_RACE_LINE 
